@@ -25,3 +25,34 @@
     border: 1px solid #707070;
     background-color: white;
 }
+
+.main-content{
+    font-family: 'helvetica';
+}
+
+.main-content h1{
+    font-size: 100px;
+    color: black;
+}
+.main-content p{
+    color: black;
+}
+
+
+
+ /*------------------- tab view  ---------------*/
+
+ @media only screen and (min-width: 577px) and (max-width: 990px) {
+    .main-content h1 {
+            font-size: 90px;
+    }
+ }
+
+
+
+ /*------------------- Mobile view  ---------------*/
+ @media only screen and (max-width: 576px) {
+    .main-content h1 {
+            font-size: 60px;
+    }
+ }
