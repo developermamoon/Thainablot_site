@@ -1,0 +1,27 @@
+.homebody{
+    background-color: #F7F1E4;
+}
+
+.nav-item a{
+    color: black !important;
+    font-family: 'helvetica';
+}
+
+.logo{
+    width: 300px;
+    height: 59px;
+}
+.boxes{
+    flex-wrap: wrap;
+}
+
+.boxes .col{
+    margin: 1px;
+}
+
+.box{
+    width: 75px;
+    height: 128px;
+    border: 1px solid #707070;
+    background-color: white;
+}
