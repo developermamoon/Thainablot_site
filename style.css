@@ -26,6 +26,13 @@
     background-color: white;
 }
 
+.box1{
+    width: 160px;
+    height: 210px;
+    background-color: white;
+    border: 1px solid #707070;
+}
+
 .main-content{
     font-family: 'helvetica';
 }
@@ -36,6 +43,16 @@
 }
 .main-content p{
     color: black;
+}
+
+.main-content-homepage{
+
+}
+
+
+.homepage-paragraph{
+    font-family: 'helvetica';
+    font-size: 20px;
 }
 
 
