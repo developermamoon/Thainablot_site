@@ -63,7 +63,16 @@ footer{
     color: white;
     text-decoration: none;
     font-family: 'helvetica';
+    
+}
 
+.main-content-about-page{
+    font-family: 'helvetica';
+}
+
+.about-page-quote{
+    font-family: 'helvetica';
+    font-size: 22px;
 }
 
 
