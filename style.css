@@ -146,7 +146,6 @@ footer{
     height: 650px;
     border: 1px solid black;
     background-color: white;
-    width: 100%;
 }
 
 .box4{
@@ -155,7 +154,7 @@ footer{
     background-color: white;
     border: 1px solid black;
     margin: 0 auto;
-    width: 100%;
+    
 }
 
 .h2-common h2{
@@ -218,5 +217,12 @@ footer{
 
     .main-content-campaign p, a{
         font-size: 14px;
+    }
+
+    .box3{
+        width: 100%;
+    }
+    .box4{
+        width: 100%;
     }
  }
