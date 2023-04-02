@@ -75,6 +75,16 @@ footer{
     font-size: 22px;
 }
 
+.main-content-post-style-1 img{
+    width: auto;
+}
+
+.main-content-post-style-1 p{
+    font-family: 'helvetica';
+    font-size: 22px;
+
+}
+
 
 
  /*------------------- tab view  ---------------*/
