@@ -2,14 +2,21 @@
     background-color: #F7F1E4;
 }
 
+.top-bg{
+    background-image: url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
 .nav-item a{
     color: black !important;
     font-family: 'helvetica';
 }
 
 .logo{
-    width: 300px;
-    height: 59px;
+    width: 270px;
+    height: 40px;
 }
 .boxes{
     flex-wrap: wrap;
@@ -47,6 +54,14 @@
 
 .main-content-homepage{
 
+}
+
+.homepage-banner img{
+    width: 100%;
+}
+
+.homepage-banner{
+    height: 850px;
 }
 
 
@@ -224,5 +239,10 @@ footer{
     }
     .box4{
         width: 100%;
+    }
+
+    .logo {
+        width: 180px;
+        height: 30px;
     }
  }
